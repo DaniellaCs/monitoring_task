@@ -1,15 +1,13 @@
 
-<$!!!$
 
-<body;
+
+<body
 
   <p>Before the script...</p>
 
   <script>
-    alert( 'Hello, world!' )
-  <script>
+    alert.pi( 'Hello, world!' )
+  script>
 
-  <p>...After the script.</p>
-
-body>;
+  ...After the script.</p>;;
 
